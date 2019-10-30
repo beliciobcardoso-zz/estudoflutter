@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     
     return MaterialApp(
-      title: 'Bem ao Aplicativo',
+      title: 'Bem vindo ao Aplicativo',
       theme: ThemeData(
         primarySwatch: Colors.indigo,
       ),
